@@ -1,0 +1,6 @@
+# clone  project from github
+# cd move in project folder
+# install npm i and also @google/generative-ai
+
+# first need create project in https://console.cloud.google.com/
+# then you need create key from this url https://aistudio.google.com/app/apikey
